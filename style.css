@@ -1,0 +1,49 @@
+.bandeau {
+    background-color: #1f4e79;
+    color: white;
+    padding: 24px 32px;
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
+
+.bandeau h1 {
+    margin: 0;
+    font-size: 2rem;
+    letter-spacing: 2px;
+}
+
+.bandeau p {
+    margin: 4px 0 0 0;
+    opacity: 0.85;
+}
+.kpi-card {
+    border: none;
+    border-left: 5px solid #1f4e79;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.kpi-label {
+    font-size: 0.85rem;
+    color: #6c757d;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.kpi-valeur {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #1f4e79;
+}
+
+.etiquette {
+    font-weight: 600;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.graph-card, .filter-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
